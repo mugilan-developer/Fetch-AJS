@@ -1,0 +1,14 @@
+
+
+.container {
+    margin: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+}
